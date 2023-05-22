@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" id="75d6dcc1-057c-4435-8fdb-28af86c6e3bd" port="22" customName="ec2-blockchain" nameFormat="CUSTOM" useOpenSSHConfig="true">
+        <option name="customName" value="ec2-blockchain" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

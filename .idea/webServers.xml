@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a9f3c7c0-c4bb-4de5-916c-d0a0707a687c" name="ec2-blockchain">
+        <fileTransfer accessType="SFTP" port="22" sshConfigId="75d6dcc1-057c-4435-8fdb-28af86c6e3bd" sshConfig="ec2-blockchain">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
